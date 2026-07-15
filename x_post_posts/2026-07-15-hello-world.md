@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hello World"
+title: "7.15.26"
 date: 2026-07-15
 ---
 
-This is my first blog post! More to come soon.
+more to come soon
