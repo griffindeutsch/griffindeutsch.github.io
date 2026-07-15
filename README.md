@@ -1,1 +1,1 @@
-# griffindeutsch.github.io
+griffindeutsch.github.io
