@@ -1,4 +1,4 @@
 ---
-  layout: home
-  title: Griffin Deutsch
-  ---
+layout: home
+title: Griffin Deutsch
+---
