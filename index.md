@@ -1,4 +1,4 @@
 ---
 layout: home
-title: Griffin Deutsch
+title: welcome
 ---
